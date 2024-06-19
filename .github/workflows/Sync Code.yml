@@ -10,7 +10,7 @@ name: Sync Code from eSir Autobuild Script
 
 # Add a button to trigger the workflow - Kuroko
 on: 
-  repository_dispatch:
+ repository_dispatch:
   workflow_dispatch:
   
   push:
